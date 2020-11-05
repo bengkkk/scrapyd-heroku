@@ -4,3 +4,6 @@ scrapyd
 scrapy-redis
 logparser
 Twisted==18.9.0
+sqlalchemy
+demjson
+pymysql
